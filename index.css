@@ -410,6 +410,11 @@ body{
         width: 98%;
         margin: 5px;
     }
+    .head{
+        width: 98%;
+        margin-left: auto;
+        margin-right: auto;
+    }
     .nav{
         display: none;
     }
